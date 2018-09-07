@@ -1,0 +1,25 @@
+{
+  "name": "chrome-contrast-theme",
+  "description": "A contrasted theme for new Chrom 69 design",
+  "version": "1.0",
+  "manifest_version": 2,
+  "icons": {
+    "16": "assets/icon-16.png",
+    "48": "assets/icon-48.png",
+    "128": "assets/icon-128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [170, 171, 187],
+      "frame_inactive": [187, 188, 201],
+      "frame_incognito": [32, 33, 36],
+      "frame_incognito_inactive": [60, 63, 66],
+      "background_tab": [216, 219, 223],
+      "background_tab_inactive": [231, 234, 237],
+      "background_tab_incognito": [32, 33, 36],
+      "background_tab_incognito_inactive": [60, 63, 66],
+      "toolbar": [255, 255, 255],
+      "toolbar_incognito": [255, 255, 0]
+    }
+  }
+}
