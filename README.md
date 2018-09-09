@@ -6,7 +6,7 @@ A contrasted theme for new Chrome 69 design.
 
 ## Installation
 
-[Download this repository](https://github.com/dimitrinicolas/chrome-contrast-theme/archive/master.zip) and drop the folder into Chrome Extensions page.
+[Download this repository](https://github.com/dimitrinicolas/chrome-contrast-theme/archive/master.zip) and drop the folder into Chrome Extensions page (chrome://extensions/).
 
 ## License
 
